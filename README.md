@@ -1,16 +1,21 @@
-# my_app
+# CMSC 23 - Mobile Computing
 
-A new Flutter project.
+## Student Information
+- **Name:** Kelvin James A. Beliber
+- **Student Number:** 2022-06090
+- **Section:** CMSC 23 - UV5L
 
-## Getting Started
+## Application Description
+This Flutter application demonstrates state management using the Provider package. It includes features for managing a shopping cart, adding items to the cart, removing items from the cart, resetting the cart, and checking out items for payment.
 
-This project is a starting point for a Flutter application.
+## Things Done in the Code
+- Implemented state management using the Provider package.
+- Created models for items in the catalog and shopping cart.
+- Developed screens for the catalog, cart, and checkout.
+- Implemented features for adding items to the cart, removing items from the cart, resetting the cart, and checking out items for payment.
 
-A few resources to get you started if this is your first Flutter project:
+## Challenges Encountered
+- Understanding and implementing state management concepts such as Provider and ChangeNotifier.
+- Integrating state management with navigation and UI components.
+- Handling edge cases and error scenarios, such as empty carts during checkout.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
